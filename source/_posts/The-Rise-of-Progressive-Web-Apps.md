@@ -3,7 +3,6 @@ title: The Rise of Progressive Web Apps
 date: 2023-03-08 01:06:11
 tags:
 ---
-# The Rise of Progressive Web Apps: What You Need to Know
 
 In recent years, we've seen a significant rise in the popularity of Progressive Web Apps (PWAs). PWAs are web applications that use modern web technologies to provide users with an app-like experience. They are designed to work on any device with a web browser, whether it's a desktop computer or a mobile device.
 

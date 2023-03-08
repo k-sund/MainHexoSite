@@ -1,3 +1,3 @@
 [submodule "themes/auto"]
 	path = themes/auto
-	url = https://github.com/autoload/hexo-theme-auto.git
+	url = https://github.com/k-sund/nextjs-blog-theme

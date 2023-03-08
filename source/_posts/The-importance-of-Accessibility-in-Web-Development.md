@@ -4,8 +4,6 @@ date: 2023-03-08 02:20:45
 tags:
 ---
 
-# The Importance of Accessibility in Web Development
-
 In today's digital age, web accessibility has become increasingly important. It's not just a matter of creating a website that looks great; it's about making sure that everyone, regardless of ability, can access and use the website. 
 
 Accessibility in web development refers to the practice of creating websites that can be used by people with disabilities. These disabilities can include visual impairments, hearing impairments, motor impairments, and cognitive impairments. 

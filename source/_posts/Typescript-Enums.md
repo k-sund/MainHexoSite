@@ -31,10 +31,6 @@ In this case, Red is assigned the value 1, Green is assigned the value 2, and Bl
 
 To use an enum in your code, you simply refer to its members by name. Here's an example:
 
-javascript
-Copy code
-let color: Color = Color.Red;
-console.log(color); // 0
 In this example, we've declared a variable named color of type Color and assigned it the value Color.Red. When we log the value of color to the console, we see that it's equal to 0, which is the numeric value of Red.
 
 You can also use enums in switch statements, like this:

@@ -20,12 +20,13 @@ In this example, we've defined an enum named Color with three members: Red, Gree
 
 You can also explicitly assign values to enum members, like this:
 
-```
+``` typescript
 enum Color {
   Red = 1,
   Green = 2,
   Blue = 4
 }
+```
 In this case, Red is assigned the value 1, Green is assigned the value 2, and Blue is assigned the value 4. You can assign any numeric value to enum members, but it's recommended to use powers of 2 so that the members can be combined using bitwise operators (more on this later).
 
 To use an enum in your code, you simply refer to its members by name. Here's an example:
@@ -38,8 +39,7 @@ In this example, we've declared a variable named color of type Color and assigne
 
 You can also use enums in switch statements, like this:
 
-css
-Copy code
+``` typescript
 let color: Color = Color.Blue;
 switch (color) {
   case Color.Red:
@@ -52,6 +52,7 @@ switch (color) {
     console.log("The color is blue");
     break;
 }
+```
 In this example, we've declared a variable named color of type Color and assigned it the value Color.Blue. We then use a switch statement to log a message to the console depending on the value of color. Since color is equal to Color.Blue, we log the message "The color is blue".
 
 Enums can also be used with bitwise operators to combine their values. For example, if you have an enum that represents permissions, you can combine its members to represent a combination of permissions, like this:
